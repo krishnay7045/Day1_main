@@ -1,6 +1,6 @@
 # Website
 
-My website is developeed using HTML only. Till now it is in building face only.
+This project is developeed using HTML only. Till now it is in building face only.
 
 
 # Description
